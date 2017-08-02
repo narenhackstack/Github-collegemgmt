@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about_college"
+            android:icon="@drawable/ic_action_about"
+            android:title="About College" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_action_group"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_departments"
+            android:icon="@drawable/ic_action_departments"
+            android:title="Departments" />
+        <item
+            android:id="@+id/nav_academics"
+            android:icon="@drawable/ic_action_book"
+            android:title="Academics " />
+        <item
+            android:id="@+id/nav_placementdetails"
+            android:icon="@drawable/ic_action_name"
+            android:title="Placement Details" />
+        <item
+            android:id="@+id/nav_facility"
+            android:icon="@drawable/ic_action_wifi"
+            android:title="Facilities" />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_action_call"
+                android:title="Contact Us" />
+            <item
+                android:id="@+id/nav_website"
+                android:icon="@drawable/ic_action_website"
+                android:title="Website" />
+
+        </menu>
+    </item>
+
+</menu>

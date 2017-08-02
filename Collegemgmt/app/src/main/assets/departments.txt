@@ -1,0 +1,15 @@
+UG:
+
+B.E – Computer science
+B.E – ECE
+B.E – EEE
+B.E – Mechanical
+B.E – Civil 
+B.Tech – IT
+
+PG:
+
+M.E – Computer Science
+M.E – Power Electronics
+M.E – Mechaical Engineering
+

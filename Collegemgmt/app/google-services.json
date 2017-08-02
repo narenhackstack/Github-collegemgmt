@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "374896890465",
+    "firebase_url": "https://clgmgmt-b154e.firebaseio.com",
+    "project_id": "clgmgmt-b154e",
+    "storage_bucket": "clgmgmt-b154e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374896890465:android:3265aba41462a238",
+        "android_client_info": {
+          "package_name": "hackstack.collegemgmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374896890465-ij2a0ebgmecjv3s8v173t97i84glscpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnjrYH-a93CVPVm46G2Ae18ein0YGFOM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

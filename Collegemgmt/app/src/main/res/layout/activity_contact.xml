@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="hackstack.collegemgmt.ContactActivity">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:textColor="#ff4081"
+            android:textSize="30sp"
+            android:layout_marginTop="30dp"
+            android:text="xyz road, ABC nagar, Coimbatore, Tamilnadu "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="#ff4081"
+
+            android:textSize="30sp"
+            android:layout_marginTop="20dp"
+            android:text="Office Number:                  0448 - 223344"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#ff4081"
+
+            android:textSize="20sp"
+            android:text="Admission Cell: 8787787878"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#ff4081"
+
+            android:textSize="20sp"
+
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</RelativeLayout>
